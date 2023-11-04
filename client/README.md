@@ -1,0 +1,3 @@
+# FlixClone Frontend
+
+Fronted (Client)
